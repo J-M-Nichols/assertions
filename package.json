@@ -1,6 +1,6 @@
 {
   "name": "@nichathan-gaming/assertions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Defines functions for assertions in javascript.",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,8 @@
   "author": "Nichathan Gaming",
   "license": "ISC",
   "files": [
-    "assertions"
+    "assertions",
+    "basicTypes"
   ],
   "keywords": [
     "javascript",
