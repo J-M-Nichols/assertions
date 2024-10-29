@@ -11,7 +11,7 @@
   "license": "ISC",
   "files": [
     "assertions",
-    "basicTypes"
+    "basicTypes.js"
   ],
   "keywords": [
     "javascript",
