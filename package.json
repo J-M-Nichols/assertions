@@ -1,6 +1,6 @@
 {
   "name": "@nichathan-gaming/assertions",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Defines functions for assertions in javascript.",
   "main": "index.js",
   "type": "module",
