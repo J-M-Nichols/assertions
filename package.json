@@ -1,0 +1,19 @@
+{
+  "name": "@nichathan-gaming/assertions",
+  "version": "1.0.0",
+  "description": "Defines functions for assertions in javascript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nichathan Gaming",
+  "license": "ISC",
+  "files": [
+    "assertions"
+  ],
+  "keywords": [
+    "javascript",
+    "assertions"
+  ]
+}
