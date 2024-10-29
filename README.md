@@ -11,6 +11,7 @@ Defines functions for assertions in javascript.
 - **assertArrayType**: Asserts that all values of the givenArray have the type of validType.
 - **assertArrayTypes**: Asserts that all values of the givenArray have a type in validTypes.
 - **assertClass**: Asserts that the value is a class.
+- **assertImage**: Asserts that the imageUrl has a valid extension supported by Chrome, Edge, Firefox, Safari, and Opera for the img tag
 - **assertInstanceOf**: Asserts that the value is an instance of the classType.
 - **assertInstanceOneOf**: Asserts that the value is an instance of one of the classTypes.
 - **assertSameType**: Asserts that both of the values have the same type.
